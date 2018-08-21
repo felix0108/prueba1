@@ -1,2 +1,2 @@
-# prueba1
-proyecto prueba de ingieneria de software
+# COMPDES2018
+este es un repositorio de prueba para taller
